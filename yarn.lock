@@ -1655,7 +1655,7 @@
     "schema-utils" "^2.6.5"
     "source-map" "^0.7.3"
 
-"@reduxjs/toolkit@^1.6.1":
+"@reduxjs/toolkit@^1.6.2":
   "integrity" "sha512-HbfI/hOVrAcMGAYsMWxw3UJyIoAS9JTdwddsjlr5w3S50tXhWb+EMyhIw+IAvCVCLETkzdjgH91RjDSYZekVBA=="
   "resolved" "https://registry.npmjs.org/@reduxjs/toolkit/-/toolkit-1.6.2.tgz"
   "version" "1.6.2"
